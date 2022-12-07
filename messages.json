@@ -1,0 +1,13 @@
+[
+    {
+        "autor": {
+            "id": "fran@gmail.com",
+            "nombre": "Fran",
+            "apellido": "Zan",
+            "edad": "41",
+            "alias":"Franja",
+            "avatar": "https://yt3.ggpht.com/ytc/AMLnZu8fnnAMKF3FNdJWznz8h5-r5WB7Uu1CVr2g3XUsTg=s176-c-k-c0x00ffffff-no-rj"
+        },
+        "text": "primer texto"
+    }
+]
